@@ -58,7 +58,7 @@ todoproject/
 1. Clone the repository:
 
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/ashik-2534/Django-To-Do-App.git
    cd todoproject
    ```
 
@@ -74,7 +74,7 @@ todoproject/
 3. Install dependencies:
 
    ```sh
-   pip install django
+   pip install -r requirements.txt
    ```
 
 4. Apply migrations:
